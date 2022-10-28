@@ -1,0 +1,1 @@
+{'69172688': {'pageid': 69172688, 'ns': 0, 'title': 'Red Tool', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: R#Red Tool]]'}]}}

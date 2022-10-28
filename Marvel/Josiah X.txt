@@ -1,0 +1,1 @@
+{'5387355': {'pageid': 5387355, 'ns': 0, 'title': 'Josiah X', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#redirect [[List of Marvel Comics characters: J#Josiah X]]\n\n[[Category:Islam in comics]]\n[[Category:United States-themed superheroes]]'}]}}

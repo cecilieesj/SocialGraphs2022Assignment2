@@ -1,0 +1,1 @@
+{'62477663': {'pageid': 62477663, 'ns': 0, 'title': 'Son of Pyg', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: P#Son of Pyg]]\n{{Redirect category shell|\n{{R to section}}\n}}'}]}}

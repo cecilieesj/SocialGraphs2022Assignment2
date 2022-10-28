@@ -1,0 +1,1 @@
+{'5738027': {'pageid': 5738027, 'ns': 0, 'title': 'X-Cutioner', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#redirect [[List_of_Marvel_Comics_characters:_X#X-Cutioner]]'}]}}

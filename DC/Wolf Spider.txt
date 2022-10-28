@@ -1,0 +1,1 @@
+{'4296082': {'pageid': 4296082, 'ns': 0, 'title': 'Wolf Spider', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Wolf spider]] {{R from other capitalisation}}'}]}}

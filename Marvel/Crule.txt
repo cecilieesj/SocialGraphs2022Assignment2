@@ -1,0 +1,1 @@
+{'6439935': {'pageid': 6439935, 'ns': 0, 'title': 'Crule', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#Redirect [[List of Marvel Comics characters: C#Crule]]'}]}}

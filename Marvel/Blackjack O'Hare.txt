@@ -1,0 +1,1 @@
+{'52292565': {'pageid': 52292565, 'ns': 0, 'title': "Blackjack O'Hare", 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': "#REDIRECT [[List of Marvel Comics characters: O#Blackjack O'Hare]]\n\n{{Redirect category shell|1=\n{{R to section}}\n{{R from fictional character|Marvel Comics}}\n}}"}]}}

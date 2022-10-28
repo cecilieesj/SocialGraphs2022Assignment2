@@ -1,0 +1,1 @@
+{'12582578': {'pageid': 12582578, 'ns': 0, 'title': 'Aurakles', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: A#Aurakles]]\n{{r to section}}'}]}}

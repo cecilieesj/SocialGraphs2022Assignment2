@@ -1,0 +1,1 @@
+{'67748252': {'pageid': 67748252, 'ns': 0, 'title': 'Fauna Faust', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: F#Fauna Faust]]\n{{Redirect category shell|\n{{R to list entry}}\n}}'}]}}

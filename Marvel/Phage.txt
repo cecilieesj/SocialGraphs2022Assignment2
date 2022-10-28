@@ -1,0 +1,1 @@
+{'23969': {'pageid': 23969, 'ns': 0, 'title': 'Phage', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Bacteriophage]]'}]}}

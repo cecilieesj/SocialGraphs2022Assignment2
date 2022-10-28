@@ -1,0 +1,1 @@
+{'68865568': {'pageid': 68865568, 'ns': 0, 'title': 'Doctor Tyme', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: D#Doctor Tyme]]'}]}}

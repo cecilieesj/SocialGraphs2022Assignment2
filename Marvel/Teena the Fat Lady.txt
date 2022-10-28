@@ -1,0 +1,1 @@
+{'8578350': {'pageid': 8578350, 'ns': 0, 'title': 'Teena the Fat Lady', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: T#Teena the Fat Lady]]\n\n{{Redirect category shell|1=\n{{R to section}}\n{{R from fictional character|Marvel Comics}}\n}}'}]}}

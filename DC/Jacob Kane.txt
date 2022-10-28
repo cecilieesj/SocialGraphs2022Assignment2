@@ -1,0 +1,1 @@
+{'62368488': {'pageid': 62368488, 'ns': 0, 'title': 'Jacob Kane', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: K#Jacob Kane]]'}]}}

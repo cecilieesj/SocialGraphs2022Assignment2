@@ -1,0 +1,1 @@
+{'57505': {'pageid': 57505, 'ns': 0, 'title': 'DJ', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#Redirect [[Disc jockey]]\n\n{{redirect category shell|{{R move}}{{R from initialism}}{{R hatnote}}{{R p}}}}'}]}}

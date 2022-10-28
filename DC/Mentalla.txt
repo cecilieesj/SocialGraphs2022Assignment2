@@ -1,0 +1,1 @@
+{'68869630': {'pageid': 68869630, 'ns': 0, 'title': 'Mentalla', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: M#Mentalla]]'}]}}

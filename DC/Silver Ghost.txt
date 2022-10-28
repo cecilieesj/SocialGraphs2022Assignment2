@@ -1,0 +1,1 @@
+{'17685610': {'pageid': 17685610, 'ns': 0, 'title': 'Silver Ghost', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Rolls-Royce Silver Ghost]]'}]}}

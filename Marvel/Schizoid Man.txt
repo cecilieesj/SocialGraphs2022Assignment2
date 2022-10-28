@@ -1,0 +1,1 @@
+{'7015295': {'pageid': 7015295, 'ns': 0, 'title': 'Schizoid Man', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#redirect [[The Schizoid Man]]'}]}}

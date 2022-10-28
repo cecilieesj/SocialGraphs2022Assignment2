@@ -1,0 +1,1 @@
+{'52768951': {'pageid': 52768951, 'ns': 0, 'title': 'Sarah Rogers', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: R#Sarah Rogers]]\n{{R from fictional character|Marvel Comics}}'}]}}

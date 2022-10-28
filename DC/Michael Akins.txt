@@ -1,0 +1,1 @@
+{'67897173': {'pageid': 67897173, 'ns': 0, 'title': 'Michael Akins', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: A#Michael Akins]]'}]}}

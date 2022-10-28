@@ -1,0 +1,1 @@
+{'71098366': {'pageid': 71098366, 'ns': 0, 'title': 'Master Order', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: M#Master Order]]'}]}}

@@ -1,0 +1,1 @@
+{'8394159': {'pageid': 8394159, 'ns': 0, 'title': 'John Carik', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: C#John Carik]] {{R from merge}} {{r to section}}'}]}}

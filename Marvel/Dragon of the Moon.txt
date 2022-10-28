@@ -1,0 +1,1 @@
+{'5617849': {'pageid': 5617849, 'ns': 0, 'title': 'Dragon of the Moon', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: D#Dragon of the Moon]]\n\n{{Redirect category shell|1=\n{{R to section}}\n{{R from fictional character|Marvel Comics}}\n}}'}]}}

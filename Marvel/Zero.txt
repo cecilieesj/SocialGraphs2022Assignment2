@@ -1,0 +1,1 @@
+{'16494622': {'pageid': 16494622, 'ns': 0, 'title': 'Zero', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[0]]\n\n{{Redirect category shell|\n{{R from move}}\n{{R to numeral}}\n{{R hatnote}}\n{{R printworthy}}\n}}'}]}}

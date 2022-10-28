@@ -1,0 +1,1 @@
+{'7540425': {'pageid': 7540425, 'ns': 0, 'title': 'Gabrielle Haller', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#Redirect [[List of Marvel Comics characters: H#Gabrielle Haller]]\n[[Category:X-Men supporting characters]]'}]}}

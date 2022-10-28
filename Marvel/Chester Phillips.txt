@@ -1,0 +1,1 @@
+{'31287994': {'pageid': 31287994, 'ns': 0, 'title': 'Chester Phillips', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: P#Chester Phillips]]\n\n{{Redirect category shell|1=\n{{R comics to list entry}}\n{{R printworthy}}\n{{R from fictional character|Marvel Comics}}\n}}'}]}}

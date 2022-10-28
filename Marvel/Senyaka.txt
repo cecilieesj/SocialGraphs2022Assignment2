@@ -1,0 +1,1 @@
+{'5069276': {'pageid': 5069276, 'ns': 0, 'title': 'Senyaka', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: S#Senyaka]]'}]}}

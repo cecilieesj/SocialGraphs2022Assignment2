@@ -1,0 +1,1 @@
+{'69239942': {'pageid': 69239942, 'ns': 0, 'title': 'Doctor Paine', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: P#Doctor Paine|Docotr Paine]]'}]}}

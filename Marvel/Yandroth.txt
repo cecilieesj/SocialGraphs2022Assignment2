@@ -1,0 +1,1 @@
+{'10444473': {'pageid': 10444473, 'ns': 0, 'title': 'Yandroth', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: Y#Yandroth]]'}]}}

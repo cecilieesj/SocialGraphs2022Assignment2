@@ -1,0 +1,1 @@
+{'63277840': {'pageid': 63277840, 'ns': 0, 'title': 'Shatterax', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: S#Shatterax]]'}]}}

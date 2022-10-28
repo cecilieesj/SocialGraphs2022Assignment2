@@ -1,0 +1,1 @@
+{'70574237': {'pageid': 70574237, 'ns': 0, 'title': 'Falligar the Behemoth', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: F#Falligar the Behemoth]]\n\n{{Fictional character redirect|series_name=Marvel Comics}}'}]}}

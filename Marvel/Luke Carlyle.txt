@@ -1,0 +1,1 @@
+{'10607935': {'pageid': 10607935, 'ns': 0, 'title': 'Luke Carlyle', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: C#Luke Carlyle]] {{R from Merge}} {{R to section}}'}]}}

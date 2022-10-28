@@ -1,0 +1,1 @@
+{'10044207': {'pageid': 10044207, 'ns': 0, 'title': 'Delphine Courtney', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: C#Delphine Courtney]]\n\n{{Redirect category shell|1=\n{{R from merge}}\n{{R from fictional character|Marvel Comics}}\n}}'}]}}

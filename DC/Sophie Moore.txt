@@ -1,0 +1,1 @@
+{'62065570': {'pageid': 62065570, 'ns': 0, 'title': 'Sophie Moore', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: M#Sophie Moore]]'}]}}

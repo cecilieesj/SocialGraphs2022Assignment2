@@ -1,0 +1,1 @@
+{'68808568': {'pageid': 68808568, 'ns': 0, 'title': 'Moxie Mannheim', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: M#Moxie Mannheim]]'}]}}

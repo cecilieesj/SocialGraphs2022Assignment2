@@ -1,0 +1,1 @@
+{'61762705': {'pageid': 61762705, 'ns': 0, 'title': 'Kurse', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: K#Kurse]]\n\n{{R from move}}'}]}}

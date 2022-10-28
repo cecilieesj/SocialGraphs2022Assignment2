@@ -1,0 +1,1 @@
+{'68869623': {'pageid': 68869623, 'ns': 0, 'title': 'Josephine MacDonald', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: M#Josephine MacDonald]]'}]}}

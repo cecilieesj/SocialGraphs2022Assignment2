@@ -1,0 +1,1 @@
+{'70320099': {'pageid': 70320099, 'ns': 0, 'title': 'Red Dagger', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Characters of the Marvel Cinematic Universe: A–L#Kareem%20/%20Red%20Dagger]]\n{{Fictional character redirect|series_name=Marvel Cinematic Universe|series_name2=Ms. Marvel (TV series)}}'}]}}

@@ -1,0 +1,1 @@
+{'5848037': {'pageid': 5848037, 'ns': 0, 'title': 'Moses Magnum', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: M#Moses Magnum]] \n\n{{Redirect category shell|\n{{R from merge}} {{R to section}}\n}}'}]}}

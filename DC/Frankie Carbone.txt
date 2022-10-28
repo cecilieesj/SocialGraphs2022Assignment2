@@ -1,0 +1,1 @@
+{'68865503': {'pageid': 68865503, 'ns': 0, 'title': 'Frankie Carbone', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: C#Frankie Carbone]]'}]}}

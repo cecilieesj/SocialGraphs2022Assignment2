@@ -1,0 +1,1 @@
+{'70872998': {'pageid': 70872998, 'ns': 0, 'title': 'Tick-Tock', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Tick tock]]'}]}}

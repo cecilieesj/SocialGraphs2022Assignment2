@@ -1,0 +1,1 @@
+{'57745691': {'pageid': 57745691, 'ns': 0, 'title': 'Piranha Jones', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: J#Piranha Jones]]\n{{Redirect category shell|\n{{R to section}}\n{{R with possibilities}}\n{{R printworthy}}\n}}'}]}}

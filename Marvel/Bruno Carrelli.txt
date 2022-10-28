@@ -1,0 +1,1 @@
+{'70320122': {'pageid': 70320122, 'ns': 0, 'title': 'Bruno Carrelli', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Characters of the Marvel Cinematic Universe: A–L#Bruno Carrelli]]\n\n{{Fictional character redirect|series_name=Marvel Cinematic Universe|series_name2=Ms. Marvel (TV series)}}'}]}}

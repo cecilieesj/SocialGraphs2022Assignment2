@@ -1,0 +1,1 @@
+{'71739189': {'pageid': 71739189, 'ns': 0, 'title': 'Carl Brock', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: B#Carl Brock]]'}]}}

@@ -1,0 +1,1 @@
+{'55010458': {'pageid': 55010458, 'ns': 0, 'title': 'Father Delgado', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: D#Father Delgado]]'}]}}

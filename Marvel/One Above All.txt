@@ -1,0 +1,1 @@
+{'71422940': {'pageid': 71422940, 'ns': 0, 'title': 'One Above All', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: O#One Above All]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

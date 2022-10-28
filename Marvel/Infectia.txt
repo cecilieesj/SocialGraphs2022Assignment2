@@ -1,0 +1,1 @@
+{'5730269': {'pageid': 5730269, 'ns': 0, 'title': 'Infectia', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: I#Infectia]]\n\n{{Redirect category shell|1=\n{{R from fictional character|Marvel Comics}}\n}}'}]}}

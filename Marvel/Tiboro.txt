@@ -1,0 +1,1 @@
+{'13796944': {'pageid': 13796944, 'ns': 0, 'title': 'Tiboro', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: T#Tiboro]] {{R from merge}} {{R to section}}'}]}}

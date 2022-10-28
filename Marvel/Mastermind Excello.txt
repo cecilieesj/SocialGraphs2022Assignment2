@@ -1,0 +1,1 @@
+{'8454204': {'pageid': 8454204, 'ns': 0, 'title': 'Mastermind Excello', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT[[Amadeus Cho]]'}]}}

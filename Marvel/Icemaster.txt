@@ -1,0 +1,1 @@
+{'3853676': {'pageid': 3853676, 'ns': 0, 'title': 'Icemaster', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#redirect [[List of Marvel Comics characters: I#Icemaster]]\n\n{{Redirect category shell|1=\n{{R from fictional character|Marvel Comics}}\n}}'}]}}

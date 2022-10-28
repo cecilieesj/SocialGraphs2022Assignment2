@@ -1,0 +1,1 @@
+{'69239938': {'pageid': 69239938, 'ns': 0, 'title': 'Vic Slaughter', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: S#Vic Slaughter]]'}]}}

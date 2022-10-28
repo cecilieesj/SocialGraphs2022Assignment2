@@ -1,0 +1,1 @@
+{'69147477': {'pageid': 69147477, 'ns': 0, 'title': 'Beard Hunter', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: B#Beard Hunter]]'}]}}

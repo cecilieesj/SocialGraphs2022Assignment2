@@ -1,0 +1,1 @@
+{'440197': {'pageid': 440197, 'ns': 0, 'title': 'Geomancer', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#Redirect [[geomancy]]'}]}}

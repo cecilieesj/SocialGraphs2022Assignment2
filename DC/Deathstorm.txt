@@ -1,0 +1,1 @@
+{'31364007': {'pageid': 31364007, 'ns': 0, 'title': 'Deathstorm', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: D#Deathstorm]]\n\n{{Redirect category shell|1=\n{{R to section}}\n{{R from fictional character|DC Comics}}\n}}'}]}}

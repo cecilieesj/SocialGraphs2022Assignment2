@@ -1,0 +1,1 @@
+{'4536459': {'pageid': 4536459, 'ns': 0, 'title': 'Alpha Centurion', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: A#Alpha Centurion]]\n{{r to section}}'}]}}

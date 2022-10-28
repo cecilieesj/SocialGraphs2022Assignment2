@@ -1,0 +1,1 @@
+{'7443566': {'pageid': 7443566, 'ns': 0, 'title': 'Caleb Hammer', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#redirect [[List of Marvel Comics characters: H#Caleb Hammer]]\n{{rcat shell|\n{{R from merge}}\n{{R from fictional character|Marvel Comics}}\n}}'}]}}

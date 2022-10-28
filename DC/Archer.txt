@@ -1,0 +1,1 @@
+{'46864569': {'pageid': 46864569, 'ns': 0, 'title': 'Archer', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Archery]]\n\n{{R from noun}}\n\n{{Authority control}}\n\n{{pp-semi-indef|small=yes}}'}]}}

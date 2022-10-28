@@ -1,0 +1,1 @@
+{'62346508': {'pageid': 62346508, 'ns': 0, 'title': 'Emperor Blackgate', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: E#Emperor Blackgate]]'}]}}

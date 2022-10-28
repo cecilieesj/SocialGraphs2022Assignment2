@@ -1,0 +1,1 @@
+{'7193205': {'pageid': 7193205, 'ns': 0, 'title': 'Madame Sanctity', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List_of_Marvel_Comics_characters:_M#Madame_Sanctity]] {{R from merge}} {{R to section}}'}]}}

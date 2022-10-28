@@ -1,0 +1,1 @@
+{'71098428': {'pageid': 71098428, 'ns': 0, 'title': 'Mistress Love', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: M#Mistress Love]]'}]}}

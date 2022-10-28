@@ -1,0 +1,1 @@
+{'28460007': {'pageid': 28460007, 'ns': 0, 'title': 'Amphibius', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Savage Land Mutates#Amphibius]]\n\n{{Redirect category shell|\n{{R to section}}\n{{R from fictional character|Marvel Comics}}\n}}'}]}}

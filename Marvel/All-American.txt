@@ -1,0 +1,1 @@
+{'5066458': {'pageid': 5066458, 'ns': 0, 'title': 'All-American', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[All-America]] {{R from full name}}'}]}}

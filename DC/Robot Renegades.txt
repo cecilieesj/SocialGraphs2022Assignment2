@@ -1,0 +1,1 @@
+{'13269829': {'pageid': 13269829, 'ns': 0, 'title': 'Robot Renegades', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: R]]'}]}}

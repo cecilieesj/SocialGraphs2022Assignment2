@@ -1,0 +1,1 @@
+{'11677563': {'pageid': 11677563, 'ns': 0, 'title': 'Atom Man', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#redirect [[Atom Man vs. Superman]]\n{{R from fictional character|DC Comics}}'}]}}

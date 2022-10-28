@@ -1,0 +1,1 @@
+{'52156074': {'pageid': 52156074, 'ns': 0, 'title': 'Eli Morrow', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: M#Eli Morrow]]\n\n{{Redirect category shell|1=\n{{R to section}}\n{{R from fictional character|Marvel Comics}}\n}}'}]}}

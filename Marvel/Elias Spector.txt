@@ -1,0 +1,1 @@
+{'70734639': {'pageid': 70734639, 'ns': 0, 'title': 'Elias Spector', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Moon Knight (TV series)#Elias Spector]]\n\n{{Fictional character redirect|anchor=yes|series_name=Marvel Cinematic Universe|series_name2=Moon Knight (TV series)}}'}]}}

@@ -1,0 +1,1 @@
+{'5877396': {'pageid': 5877396, 'ns': 0, 'title': 'Cal Durham', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: D#Cal Durham]]\n\n{{Rcat shell|\n{{R comics to list entry}}\n{{R with possibilities}}\n{{R printworthy}}\n{{R from fictional character|DC Comics}}\n}}'}]}}

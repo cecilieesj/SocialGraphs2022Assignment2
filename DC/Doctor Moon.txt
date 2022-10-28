@@ -1,0 +1,1 @@
+{'62567562': {'pageid': 62567562, 'ns': 0, 'title': 'Doctor Moon', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: D#Doctor Moon]]'}]}}

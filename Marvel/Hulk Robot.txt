@@ -1,0 +1,1 @@
+{'7740990': {'pageid': 7740990, 'ns': 0, 'title': 'Hulk Robot', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: H#Hulk Robot]]\n\n{{Redirect category shell|\n{{R comics to list entry}}\n{{R comics to section}}\n}}'}]}}

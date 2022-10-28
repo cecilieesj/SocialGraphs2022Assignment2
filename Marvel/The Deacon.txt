@@ -1,0 +1,1 @@
+{'27664408': {'pageid': 27664408, 'ns': 0, 'title': 'The Deacon', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: D#The Deacon]]\n{{R from fictional character|Marvel Comics}}'}]}}

@@ -1,0 +1,1 @@
+{'6186955': {'pageid': 6186955, 'ns': 0, 'title': 'Rhea Jones', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: J#Rhea Jones]]\n[[Category:DC Comics metahumans]]'}]}}

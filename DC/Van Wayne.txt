@@ -1,0 +1,1 @@
+{'52887790': {'pageid': 52887790, 'ns': 0, 'title': 'Van Wayne', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: W#Van Wayne]]\n\n{{Redirect category shell|1=\n{{R to section}}\n{{R from fictional character|DC Comics}}\n}}'}]}}

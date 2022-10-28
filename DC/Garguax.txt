@@ -1,0 +1,1 @@
+{'69147458': {'pageid': 69147458, 'ns': 0, 'title': 'Garguax', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: G#Garguax]]'}]}}

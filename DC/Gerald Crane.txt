@@ -1,0 +1,1 @@
+{'68865540': {'pageid': 68865540, 'ns': 0, 'title': 'Gerald Crane', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: C#Gerald Crane]]'}]}}

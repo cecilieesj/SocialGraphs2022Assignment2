@@ -1,0 +1,1 @@
+{'57149314': {'pageid': 57149314, 'ns': 0, 'title': 'Otis and Adina Johnson', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: J#Otis and Adina Johnson]]'}]}}

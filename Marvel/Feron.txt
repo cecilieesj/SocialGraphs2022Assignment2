@@ -1,0 +1,1 @@
+{'61783971': {'pageid': 61783971, 'ns': 0, 'title': 'Feron', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: F]]\n\n{{R from move}}'}]}}

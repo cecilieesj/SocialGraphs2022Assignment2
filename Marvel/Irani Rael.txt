@@ -1,0 +1,1 @@
+{'52308276': {'pageid': 52308276, 'ns': 0, 'title': 'Irani Rael', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: R#Irani Rael]]\n\n{{Redirect category shell|1=\n{{R to section}}\n{{R from fictional character|Marvel Comics}}\n}}'}]}}

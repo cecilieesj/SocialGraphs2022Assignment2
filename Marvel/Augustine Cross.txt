@@ -1,0 +1,1 @@
+{'49368318': {'pageid': 49368318, 'ns': 0, 'title': 'Augustine Cross', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT[[List of Marvel Comics characters: C#Augustine Cross]]'}]}}

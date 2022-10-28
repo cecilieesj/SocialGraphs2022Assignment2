@@ -1,0 +1,1 @@
+{'36814381': {'pageid': 36814381, 'ns': 0, 'title': 'Supreme Leader', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Supreme leader]]\n\n{{Redirect category shell|\n{{R from other capitalisation}}\n}}'}]}}

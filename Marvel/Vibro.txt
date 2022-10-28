@@ -1,0 +1,1 @@
+{'23764427': {'pageid': 23764427, 'ns': 0, 'title': 'Vibro', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: V#Vibro]]\n{{R from fictional character|Marvel Comics}}'}]}}

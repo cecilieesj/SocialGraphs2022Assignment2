@@ -1,0 +1,1 @@
+{'70849761': {'pageid': 70849761, 'ns': 0, 'title': 'Jiang Li', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: J#Jiang Li]]\n\n{{Fictional character redirect|series_name=Marvel Comics}}'}]}}

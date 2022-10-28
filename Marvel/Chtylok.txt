@@ -1,0 +1,1 @@
+{'3887908': {'pageid': 3887908, 'ns': 0, 'title': 'Chtylok', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#Redirect [[List of Marvel Comics characters: C#Chtylok]]'}]}}

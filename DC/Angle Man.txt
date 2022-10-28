@@ -1,0 +1,1 @@
+{'2476287': {'pageid': 2476287, 'ns': 0, 'title': 'Angle Man', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List_of_DC_Comics_characters:_A#Angle_Man]]\n\n{{R from merge|List of Wonder Woman enemies}}\n{{R to section}}'}]}}

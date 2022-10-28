@@ -1,0 +1,1 @@
+{'12582494': {'pageid': 12582494, 'ns': 0, 'title': 'Dark-Crawler', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: D#Dark-Crawler]]\n\n{{Redirect category shell|1=\n{{r from fictional character|Marvel Comics}}\n}}'}]}}

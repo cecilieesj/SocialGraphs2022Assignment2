@@ -1,0 +1,1 @@
+{'8587409': {'pageid': 8587409, 'ns': 0, 'title': 'Great Gambonnos', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#redirect [[List of Marvel Comics characters: G#Great Gambonnos]]'}]}}

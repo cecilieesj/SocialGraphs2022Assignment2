@@ -1,0 +1,1 @@
+{'68637258': {'pageid': 68637258, 'ns': 0, 'title': 'Sister Dagger', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: S#Sister Dagger]]\n{{Redirect category shell|\n{{R to list entry}}\n}}[[Category:Shang-Chi characters]]'}]}}

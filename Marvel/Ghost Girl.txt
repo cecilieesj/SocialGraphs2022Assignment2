@@ -1,0 +1,1 @@
+{'4564893': {'pageid': 4564893, 'ns': 0, 'title': 'Ghost Girl', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: G#Ghost Girl]]\n\n{{Redirect category shell|1=\n{{R from merge}}\n{{R from fictional character|Marvel Comics}}\n}}\n[[Category:Female characters in comics]]'}]}}

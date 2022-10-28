@@ -1,0 +1,1 @@
+{'63410620': {'pageid': 63410620, 'ns': 0, 'title': 'Anti-Fate', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: A#Anti-Fate]]'}]}}

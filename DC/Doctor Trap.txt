@@ -1,0 +1,1 @@
+{'63704357': {'pageid': 63704357, 'ns': 0, 'title': 'Doctor Trap', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: D#Doctor Trap]]\n{{Redirect category shell|\n{{R to list entry}}\n}}'}]}}

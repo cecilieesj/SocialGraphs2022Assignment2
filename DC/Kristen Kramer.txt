@@ -1,0 +1,1 @@
+{'67731157': {'pageid': 67731157, 'ns': 0, 'title': 'Kristen Kramer', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: K#Kristen Kramer]]'}]}}

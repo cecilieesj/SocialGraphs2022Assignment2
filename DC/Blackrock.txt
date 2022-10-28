@@ -1,0 +1,1 @@
+{'15212132': {'pageid': 15212132, 'ns': 0, 'title': 'Blackrock', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Black Rock]]\n\n{{R from other capitalisation}}\n{{R ambig}}'}]}}

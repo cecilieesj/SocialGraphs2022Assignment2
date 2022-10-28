@@ -1,0 +1,1 @@
+{'23764410': {'pageid': 23764410, 'ns': 0, 'title': 'Ultimus', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': "'''Ultimus''' may refer to:\n*''[[Ultimus haeres]]'', a concept in Scots law\n*''Ultimus Romanorum'', Latin for [[Last of the Romans]]\n*''Ultimus'', a [[Kree]] villain that appears in the [[Marvel Universe]]\n{{Disambiguation}}"}]}}

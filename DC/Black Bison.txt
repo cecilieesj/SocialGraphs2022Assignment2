@@ -1,0 +1,1 @@
+{'3679349': {'pageid': 3679349, 'ns': 0, 'title': 'Black Bison', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: B#Black Bison]]\n\n{{Redirect category shell|1=\n{{R to section}}\n{{R from fictional character|DC Comics}}\n}}'}]}}

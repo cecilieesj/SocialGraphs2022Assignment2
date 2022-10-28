@@ -1,0 +1,1 @@
+{'59827980': {'pageid': 59827980, 'ns': 0, 'title': 'Carl Ferris', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: F#Carl Ferris]]\n\n{{Redirect category shell|1=\n{{R to section}}\n{{R from fictional character|DC Comics}}\n}}\n{{DEFAULTSORT:Ferris, Carl}}'}]}}

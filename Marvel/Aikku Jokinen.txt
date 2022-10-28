@@ -1,0 +1,1 @@
+{'52186543': {'pageid': 52186543, 'ns': 0, 'title': 'Aikku Jokinen', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: J#Aikku Jokinen]]\n\n{{Rcat shell|\n{{R to list entry}}\n}}\n\n{{DEFAULTSORT:Jokinen, Aikku}}\n[[Category:Fictional Finnish people]]'}]}}

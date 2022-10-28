@@ -1,0 +1,1 @@
+{'68869645': {'pageid': 68869645, 'ns': 0, 'title': 'Mysto', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: M#Mysto]]'}]}}

@@ -1,0 +1,1 @@
+{'10847033': {'pageid': 10847033, 'ns': 0, 'title': 'Orwell Taylor', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: T#Orwell Taylor]]\n\n{{Redirect category shell|1=\n{{R to section}}\n{{R from fictional character|Marvel Comics}}\n}}'}]}}

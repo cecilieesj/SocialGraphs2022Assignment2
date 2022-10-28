@@ -1,0 +1,1 @@
+{'63806678': {'pageid': 63806678, 'ns': 0, 'title': 'Esperanza Garcia', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: G#Esperanza Garcia]]'}]}}

@@ -1,0 +1,1 @@
+{'56443351': {'pageid': 56443351, 'ns': 0, 'title': 'Roland Treece', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: T#Roland Treece]]'}]}}

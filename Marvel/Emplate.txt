@@ -1,0 +1,1 @@
+{'2829054': {'pageid': 2829054, 'ns': 0, 'title': 'Emplate', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: E#Emplate]]\n\n{{R from merge}}\n{{R to section}}'}]}}

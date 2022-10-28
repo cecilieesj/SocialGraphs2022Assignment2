@@ -1,0 +1,1 @@
+{'1273462': {'pageid': 1273462, 'ns': 0, 'title': 'Nezarr the Calculator', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Celestial (comics)#Nezarr the Calculator]]\n\n{{Fictional character redirect|series_name=Marvel Comics}}\n\n[[Category:Characters created by Jack Kirby]]\n[[Category:Comics characters introduced in 1977]]'}]}}

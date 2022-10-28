@@ -1,0 +1,1 @@
+{'28022676': {'pageid': 28022676, 'ns': 0, 'title': 'Sepulchre', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Tomb]]\n\n[[Category:Tombs|*]]\n[[Category:Burial monuments and structures]]'}]}}

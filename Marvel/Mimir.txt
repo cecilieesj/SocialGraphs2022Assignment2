@@ -1,0 +1,1 @@
+{'2851202': {'pageid': 2851202, 'ns': 0, 'title': 'Mimir', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Mímir]]\n{{R from title without diacritics}}'}]}}

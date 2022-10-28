@@ -1,0 +1,1 @@
+{'70010623': {'pageid': 70010623, 'ns': 0, 'title': 'Simon Krieger', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#redirect [[List of Marvel Comics characters: K#Simon Krieger]]'}]}}

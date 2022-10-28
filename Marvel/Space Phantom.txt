@@ -1,0 +1,1 @@
+{'3465486': {'pageid': 3465486, 'ns': 0, 'title': 'Space Phantom', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: S#Space Phantom]]\n{{r merge}}'}]}}

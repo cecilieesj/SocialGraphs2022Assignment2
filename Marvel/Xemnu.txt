@@ -1,0 +1,1 @@
+{'3279362': {'pageid': 3279362, 'ns': 0, 'title': 'Xemnu', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of monsters in Marvel Comics#Xemnu]] {{Redirect category shell|\n{{R from merge}}\n}}'}]}}

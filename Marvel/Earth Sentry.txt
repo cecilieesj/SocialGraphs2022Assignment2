@@ -1,0 +1,1 @@
+{'5329489': {'pageid': 5329489, 'ns': 0, 'title': 'Earth Sentry', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: E#Earth Sentry]]\n\n{{Redirect category shell|1=\n{{R from merge}}\n{{R from fictional character|Marvel Comics}}\n}}'}]}}

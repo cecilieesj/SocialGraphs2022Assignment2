@@ -1,0 +1,1 @@
+{'63773674': {'pageid': 63773674, 'ns': 0, 'title': 'Joseph Carver', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: C#Joseph Carver]]'}]}}

@@ -1,0 +1,1 @@
+{'71463110': {'pageid': 71463110, 'ns': 0, 'title': 'Ghost-Maker', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: G#Ghost-Maker]]\n\n{{Redirect category shell|\n{{R from move}}\n}}\n[[Category:Fictional ninja]]\n[[Category:Fictional male martial artists]]\n[[Category:Vigilante characters in comics]]'}]}}

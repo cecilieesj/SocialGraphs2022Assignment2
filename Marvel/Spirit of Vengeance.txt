@@ -1,0 +1,1 @@
+{'34971010': {'pageid': 34971010, 'ns': 0, 'title': 'Spirit of Vengeance', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': "'''Spirit of Vengeance''' may refer to:\n\n* [[Spirit of Vengeance (comics)]], a Marvel Comics character\n* ''[[Ghost Rider: Spirit of Vengeance]]'', a 2012 film\n\n{{Disambiguation}}"}]}}

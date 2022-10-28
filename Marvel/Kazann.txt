@@ -1,0 +1,1 @@
+{'7160003': {'pageid': 7160003, 'ns': 0, 'title': 'Kazann', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: K#Kazann]]\n\n{{Redirect category shell|1=\n{{R from fictional character|Marvel Comics}}\n}}'}]}}

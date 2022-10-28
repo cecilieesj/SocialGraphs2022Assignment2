@@ -1,0 +1,1 @@
+{'13621860': {'pageid': 13621860, 'ns': 0, 'title': 'Zale', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Zale Corporation]]'}]}}

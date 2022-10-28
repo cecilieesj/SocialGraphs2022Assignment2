@@ -1,0 +1,1 @@
+{'12593931': {'pageid': 12593931, 'ns': 0, 'title': 'Zom', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#redirect [[List of Marvel Comics characters: Z#Zom]]\n{{Rcat shell|\n{{R from merge}}\n{{R from fictional character|Marvel Comics}}\n}}'}]}}

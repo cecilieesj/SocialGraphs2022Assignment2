@@ -1,0 +1,1 @@
+{'14843382': {'pageid': 14843382, 'ns': 0, 'title': 'Magnus the Sorcerer', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: M#Magnus the Sorcerer]]\n\n{{Redirect category shell|1=\n{{R from merge}}\n{{R from fictional character|Marvel Comics}}\n}}'}]}}

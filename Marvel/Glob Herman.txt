@@ -1,0 +1,1 @@
+{'5279527': {'pageid': 5279527, 'ns': 0, 'title': 'Glob Herman', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: G]]'}]}}

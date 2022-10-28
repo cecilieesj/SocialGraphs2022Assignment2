@@ -1,0 +1,1 @@
+{'69367110': {'pageid': 69367110, 'ns': 0, 'title': 'Byth Rok', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: B#Byth Rok]]\n\n[[Category:DC Comics characters who are shapeshifters]]\n[[Category:DC Comics characters with superhuman strength]]\n[[Category:DC Comics extraterrestrial supervillains]]'}]}}

@@ -1,0 +1,1 @@
+{'3036604': {'pageid': 3036604, 'ns': 0, 'title': 'Sugar Man', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: S#Sugar Man]]'}]}}

@@ -1,0 +1,1 @@
+{'67389804': {'pageid': 67389804, 'ns': 0, 'title': 'Horten Spence', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: S#Horten Spence]]'}]}}

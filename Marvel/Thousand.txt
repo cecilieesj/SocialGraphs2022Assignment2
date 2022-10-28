@@ -1,0 +1,1 @@
+{'1297313': {'pageid': 1297313, 'ns': 0, 'title': 'Thousand', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[1000 (number)]]\n\n{{Redirect category shell|\n{{R to numerals}}\n}}'}]}}

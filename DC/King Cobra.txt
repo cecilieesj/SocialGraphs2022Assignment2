@@ -1,0 +1,1 @@
+{'34487393': {'pageid': 34487393, 'ns': 0, 'title': 'King Cobra', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[King cobra]] {{R from other capitalisation}}'}]}}

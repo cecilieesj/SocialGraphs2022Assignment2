@@ -1,0 +1,1 @@
+{'24859777': {'pageid': 24859777, 'ns': 0, 'title': 'Amadeus Arkham', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: A#Amadeus Arkham]]\n{{r to section}}'}]}}

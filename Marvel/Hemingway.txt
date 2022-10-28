@@ -1,0 +1,1 @@
+{'27771699': {'pageid': 27771699, 'ns': 0, 'title': 'Hemingway', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Ernest Hemingway]]\n\n{{Rcat shell|\n{{R from move}}\n{{R from surname|nocat}}\n{{R mentioned in hatnote}}\n{{R printworthy}}\n}}'}]}}

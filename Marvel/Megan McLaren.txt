@@ -1,0 +1,1 @@
+{'52194147': {'pageid': 52194147, 'ns': 0, 'title': 'Megan McLaren', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: M#Megan McLaren]]\n\n{{Redirect category shell|1=\n{{R to section}}\n{{R from fictional character|Marvel Comics}}\n}}'}]}}

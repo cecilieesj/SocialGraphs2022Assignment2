@@ -1,0 +1,1 @@
+{'71615307': {'pageid': 71615307, 'ns': 0, 'title': 'Cullen Row', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: R#Cullen Row]]\n\n{{DEFAULTSORT:Row, Cullen}}\n[[Category:DC Comics LGBT characters]]\n[[Category:Fictional gay males]]'}]}}

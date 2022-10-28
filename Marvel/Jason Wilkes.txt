@@ -1,0 +1,1 @@
+{'52230074': {'pageid': 52230074, 'ns': 0, 'title': 'Jason Wilkes', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Agent Carter characters#Jason Wilkes]]\n\n{{Fictional character redirect|series_name=Agent Carter (TV series)}}'}]}}

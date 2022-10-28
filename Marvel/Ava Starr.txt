@@ -1,0 +1,1 @@
+{'57849055': {'pageid': 57849055, 'ns': 0, 'title': 'Ava Starr', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Characters of the Marvel Cinematic Universe: M–Z#Ava Starr / Ghost]]\n\n{{Fictional character redirect|series_name=Marvel Cinematic Universe|anchor=yes}}'}]}}

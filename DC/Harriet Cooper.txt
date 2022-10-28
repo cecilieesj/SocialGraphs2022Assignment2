@@ -1,0 +1,1 @@
+{'11072675': {'pageid': 11072675, 'ns': 0, 'title': 'Harriet Cooper', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: C#Harriet Cooper]]\n\n{{Redirect category shell|1=\n{{R comics to list entry}}\n{{R from fictional character|DC Comics}}\n}}\n{{DEFAULTSORT:Cooper, Harriet}}'}]}}

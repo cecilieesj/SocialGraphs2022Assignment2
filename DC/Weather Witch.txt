@@ -1,0 +1,1 @@
+{'59687513': {'pageid': 59687513, 'ns': 0, 'title': 'Weather Witch', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: W#Weather Witch]]'}]}}

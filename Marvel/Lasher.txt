@@ -1,0 +1,1 @@
+{'2220502': {'pageid': 2220502, 'ns': 0, 'title': 'Lasher', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Lives of the Mayfair Witches]]\n\n{{Rcat shell|\n{{R from merge}}\n{{R from subtopic}}\n}}\n\n[[Category:1993 American novels]]\n[[Category:Fictional rapists]]<!-- Lasher as character -->\n[[Category:Novels by Anne Rice]]'}]}}

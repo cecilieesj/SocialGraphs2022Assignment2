@@ -1,0 +1,1 @@
+{'15290175': {'pageid': 15290175, 'ns': 0, 'title': 'Llan the Sorcerer', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: L]]'}]}}

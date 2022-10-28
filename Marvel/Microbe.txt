@@ -1,0 +1,1 @@
+{'20376': {'pageid': 20376, 'ns': 0, 'title': 'Microbe', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Microorganism]]\n\n{{Redirect category shell|1=\n{{R from other name}}\n}}'}]}}

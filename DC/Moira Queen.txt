@@ -1,0 +1,1 @@
+{'61550631': {'pageid': 61550631, 'ns': 0, 'title': 'Moira Queen', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: Q#Moira Queen]]\n\n{{R from move}}'}]}}

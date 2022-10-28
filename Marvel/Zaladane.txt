@@ -1,0 +1,1 @@
+{'1189662': {'pageid': 1189662, 'ns': 0, 'title': 'Zaladane', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#redirect[[List of Marvel Comics characters: Z#Zaladane]]'}]}}

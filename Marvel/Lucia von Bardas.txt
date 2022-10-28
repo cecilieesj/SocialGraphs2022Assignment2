@@ -1,0 +1,1 @@
+{'12518695': {'pageid': 12518695, 'ns': 0, 'title': 'Lucia von Bardas', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#Redirect [[List of Marvel Comics characters: V#Lucia von Bardas]]\n\n{{Rcat shell|\n{{R from fictional character|Marvel Comics}}\n[[Category:Latverians]]                            \n}}'}]}}

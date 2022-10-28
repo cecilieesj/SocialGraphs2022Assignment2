@@ -1,0 +1,1 @@
+{'52427821': {'pageid': 52427821, 'ns': 0, 'title': 'Dante Ramon', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: R#Dante Ramon]]\n\n{{Redirect category shell|1=\n{{R to section}}\n{{R from fictional character|DC Comics}}\n}}\n{{DEFAULTSORT:Ramon, Dante}}'}]}}

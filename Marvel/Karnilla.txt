@@ -1,0 +1,1 @@
+{'5576819': {'pageid': 5576819, 'ns': 0, 'title': 'Karnilla', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: K]]'}]}}

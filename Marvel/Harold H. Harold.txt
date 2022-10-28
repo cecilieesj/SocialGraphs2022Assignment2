@@ -1,0 +1,1 @@
+{'12053488': {'pageid': 12053488, 'ns': 0, 'title': 'Harold H. Harold', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: H#Harold H. Harold]]\n\n{{Redirect category shell|1=\n{{R from merge}}\n{{R from fictional character|Marvel Comics}}\n}}'}]}}

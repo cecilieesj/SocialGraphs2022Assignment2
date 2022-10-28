@@ -1,0 +1,1 @@
+{'68284843': {'pageid': 68284843, 'ns': 0, 'title': 'Mad Jim Jaspers', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#redirect [[List of Marvel Comics characters: M#Mad Jim Jaspers]]\n{{Redirect category shell|\n{{R to section}}\n}}'}]}}

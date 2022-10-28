@@ -1,0 +1,1 @@
+{'2826664': {'pageid': 2826664, 'ns': 0, 'title': 'Agamotto', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Eye of Agamotto]]\n\n{{R from fictional character|Marvel Comics}}\n\n[[Category:Marvel Comics principalities]]'}]}}

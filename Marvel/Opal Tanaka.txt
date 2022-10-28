@@ -1,0 +1,1 @@
+{'50439445': {'pageid': 50439445, 'ns': 0, 'title': 'Opal Tanaka', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#Redirect [[List of Marvel Comics characters: O#Opal Tanaka]]'}]}}

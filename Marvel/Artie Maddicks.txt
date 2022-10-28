@@ -1,0 +1,1 @@
+{'6241531': {'pageid': 6241531, 'ns': 0, 'title': 'Artie Maddicks', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: M]]'}]}}

@@ -1,0 +1,1 @@
+{'18517602': {'pageid': 18517602, 'ns': 0, 'title': "Seymour O'Reilly", 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Midtown High School (comics)#Students]]\n\n{{Redirect category shell|1=\n{{R from merge}}\n{{R from fictional character|Marvel Comics}}\n}}'}]}}

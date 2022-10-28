@@ -1,0 +1,1 @@
+{'4385803': {'pageid': 4385803, 'ns': 0, 'title': 'Agamemno', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: A#Agamemno]]\n{{r to section}}'}]}}

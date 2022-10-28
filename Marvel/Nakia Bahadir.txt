@@ -1,0 +1,1 @@
+{'70953866': {'pageid': 70953866, 'ns': 0, 'title': 'Nakia Bahadir', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Characters of the Marvel Cinematic Universe: A–L#Nakia Bahadir]]\n\n{{Fictional character redirect|series_name=Marvel Cinematic Universe|series_name2=Ms. Marvel (TV series)}}'}]}}

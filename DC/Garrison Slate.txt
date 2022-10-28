@@ -1,0 +1,1 @@
+{'57707835': {'pageid': 57707835, 'ns': 0, 'title': 'Garrison Slate', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: S#Garrison Slate]]'}]}}

@@ -1,0 +1,1 @@
+{'7943511': {'pageid': 7943511, 'ns': 0, 'title': 'Phineas Horton', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: H#Phineas Horton]]  {{R from merge}} {{R to section}}'}]}}

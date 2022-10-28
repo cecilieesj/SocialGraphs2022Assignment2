@@ -1,0 +1,1 @@
+{'5279283': {'pageid': 5279283, 'ns': 0, 'title': 'Alpha the Ultimate Mutant', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: A#Alpha the Ultimate Mutant]]\n{{r to section}}'}]}}

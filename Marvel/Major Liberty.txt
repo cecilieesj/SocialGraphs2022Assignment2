@@ -1,0 +1,1 @@
+{'63850581': {'pageid': 63850581, 'ns': 0, 'title': 'Major Liberty', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: M]]'}]}}

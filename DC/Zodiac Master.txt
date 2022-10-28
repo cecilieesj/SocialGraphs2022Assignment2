@@ -1,0 +1,1 @@
+{'69154946': {'pageid': 69154946, 'ns': 0, 'title': 'Zodiac Master', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: Z#Zodiac Master]]'}]}}

@@ -1,0 +1,1 @@
+{'20555041': {'pageid': 20555041, 'ns': 0, 'title': 'Steven Rogers', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: R#Steven Rogers]]\n\n{{Redirect category shell|\n{{R from ambiguous page}}\n{{R from long name}}\n}}'}]}}

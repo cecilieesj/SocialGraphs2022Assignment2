@@ -1,0 +1,1 @@
+{'13569779': {'pageid': 13569779, 'ns': 0, 'title': 'Kagenobu Yoshioka', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: Y#Kagenobu Yoshioka]]\n\n{{Redirect category shell|1=\n{{R to section}}\n{{R from fictional character|Marvel Comics}}\n}}'}]}}

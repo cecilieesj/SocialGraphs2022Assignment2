@@ -1,0 +1,1 @@
+{'8983234': {'pageid': 8983234, 'ns': 0, 'title': 'Tim Boo Ba', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of monsters in Marvel Comics#Tim Boo Ba]]\n\n{{Redirect category shell|1=\n{{R from merge}}\n{{R from fictional character|Marvel Comics}}\n}}'}]}}

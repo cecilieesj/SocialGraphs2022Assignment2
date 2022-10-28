@@ -1,0 +1,1 @@
+{'63297821': {'pageid': 63297821, 'ns': 0, 'title': 'Allegra Garcia', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: G#Allegra Garcia]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

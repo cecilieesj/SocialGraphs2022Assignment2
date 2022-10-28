@@ -1,0 +1,1 @@
+{'69435478': {'pageid': 69435478, 'ns': 0, 'title': 'Bad Samaritan', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Bad Samaritans]]'}]}}

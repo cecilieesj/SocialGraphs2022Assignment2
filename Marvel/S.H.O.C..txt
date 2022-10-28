@@ -1,0 +1,1 @@
+{'5723242': {'pageid': 5723242, 'ns': 0, 'title': 'S.H.O.C.', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: S#S.H.O.C.]]\n\n{{Redirect category shell|1=\n{{R from merge}}\n{{R from fictional element|Marvel Comics}}\n}}'}]}}

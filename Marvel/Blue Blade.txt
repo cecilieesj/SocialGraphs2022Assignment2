@@ -1,0 +1,1 @@
+{'12700712': {'pageid': 12700712, 'ns': 0, 'title': 'Blue Blade', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: B#Blue Blade]]{{R from merge}} {{R to section}}'}]}}

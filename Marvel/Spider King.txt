@@ -1,0 +1,1 @@
+{'12180815': {'pageid': 12180815, 'ns': 0, 'title': 'Spider King', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: S#Spider King]]'}]}}

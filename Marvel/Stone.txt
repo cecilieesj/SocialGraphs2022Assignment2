@@ -1,0 +1,1 @@
+{'29663068': {'pageid': 29663068, 'ns': 0, 'title': 'Stone', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Rock (geology)]]\n\n{{Redirect category shell|1=\n{{Redirect mentioned in hatnote}}\n{{Redirect from alternative name}}\n{{Redirect printworthy}}\n{{Wikidata redirect}}\n}}\n\n{{Authority control}}'}]}}

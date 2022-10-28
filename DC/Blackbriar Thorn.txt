@@ -1,0 +1,1 @@
+{'20425993': {'pageid': 20425993, 'ns': 0, 'title': 'Blackbriar Thorn', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: B#Blackbriar Thorn]]\n\n[[Category:Fictional druids]]\n[[Category:DC Comics characters who use magic]]\n[[Category:DC Comics plant characters]]'}]}}

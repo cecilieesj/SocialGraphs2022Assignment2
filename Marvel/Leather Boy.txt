@@ -1,0 +1,1 @@
+{'5853709': {'pageid': 5853709, 'ns': 0, 'title': 'Leather Boy', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: L#Leather Boy]]\n{{R from fictional character|Marvel Comics}}'}]}}

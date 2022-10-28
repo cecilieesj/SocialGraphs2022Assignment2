@@ -1,0 +1,1 @@
+{'12006818': {'pageid': 12006818, 'ns': 0, 'title': 'Solarr', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#redirect [[List of Marvel Comics characters: S#Solarr]]\n\n{{r from merge}}'}]}}

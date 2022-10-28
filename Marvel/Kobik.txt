@@ -1,0 +1,1 @@
+{'51411934': {'pageid': 51411934, 'ns': 0, 'title': 'Kobik', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: K#Kobik]]\n\n{{Redirect category shell|1=\n{{R to section}}\n{{R from fictional character|Marvel Comics}}\n}}'}]}}

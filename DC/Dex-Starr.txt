@@ -1,0 +1,1 @@
+{'55890136': {'pageid': 55890136, 'ns': 0, 'title': 'Dex-Starr', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: D#Dex-Starr]]\n\n[[Category:DC Comics characters with superhuman strength]]\n[[Category:Fictional cats]]'}]}}

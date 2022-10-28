@@ -1,0 +1,1 @@
+{'12797329': {'pageid': 12797329, 'ns': 0, 'title': 'Fiery Mask', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: F#Fiery Mask]]{{R from merge}} {{R to section}}'}]}}

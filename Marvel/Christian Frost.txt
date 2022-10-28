@@ -1,0 +1,1 @@
+{'11019165': {'pageid': 11019165, 'ns': 0, 'title': 'Christian Frost', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: F#Christian_Frost]]\n\n{{Redirect category shell|1=\n{{R from fictional character|Marvel Comics}}\n}}'}]}}

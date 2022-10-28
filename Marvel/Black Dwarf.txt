@@ -1,0 +1,1 @@
+{'2350216': {'pageid': 2350216, 'ns': 0, 'title': 'Black Dwarf', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Black dwarf]] {{R from other capitalisation}}'}]}}

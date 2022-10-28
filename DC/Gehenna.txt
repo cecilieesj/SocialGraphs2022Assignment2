@@ -1,0 +1,1 @@
+{'68257173': {'pageid': 68257173, 'ns': 0, 'title': 'Gehenna', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Valley of Hinnom (Gehenna)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}'}]}}

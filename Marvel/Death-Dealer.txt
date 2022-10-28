@@ -1,0 +1,1 @@
+{'68260292': {'pageid': 68260292, 'ns': 0, 'title': 'Death-Dealer', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Master of Kung Fu (comics)]]'}]}}

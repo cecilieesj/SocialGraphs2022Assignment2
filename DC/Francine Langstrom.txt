@@ -1,0 +1,1 @@
+{'27763009': {'pageid': 27763009, 'ns': 0, 'title': 'Francine Langstrom', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: L#Francine Langstrom]]\n\n{{Rcat shell|\n{{R to related topic}}\n}}'}]}}

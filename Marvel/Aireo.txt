@@ -1,0 +1,1 @@
+{'9042800': {'pageid': 9042800, 'ns': 0, 'title': 'Aireo', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Inhumans#Inhuman allies of Maximus]]\n\n{{Redirect category shell|1=\n{{R to section}}\n{{R from fictional character|Marvel Comics}}\n}}'}]}}

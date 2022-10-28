@@ -1,0 +1,1 @@
+{'12610108': {'pageid': 12610108, 'ns': 0, 'title': 'Yusuf Khan', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Yousaf Khan]]\n\n{{Redirect category shell|\n{{R from alternative spelling}}\n}}'}]}}

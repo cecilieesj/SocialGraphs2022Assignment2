@@ -1,0 +1,1 @@
+{'5343682': {'pageid': 5343682, 'ns': 0, 'title': 'Electric Eve', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#redirect [[Morlocks (comics)]]'}]}}

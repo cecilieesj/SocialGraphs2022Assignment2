@@ -1,0 +1,1 @@
+{'424406': {'pageid': 424406, 'ns': 0, 'title': 'Tyrannus', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Kingbird]]\n\n{{Redirect category shell|1=\n{{R from scientific name|bird}}\n}}\n\n[[Category:Bird genera]]\n[[Category:Tyrannus (genus)]]'}]}}

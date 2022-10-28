@@ -1,0 +1,1 @@
+{'14894112': {'pageid': 14894112, 'ns': 0, 'title': 'Kilg%re', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: K#Kilg%re]]\n\n{{Redirect category shell|1=\n{{R to section}}\n{{R from fictional character|DC Comics}}\n}}'}]}}

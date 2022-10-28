@@ -1,0 +1,1 @@
+{'2630932': {'pageid': 2630932, 'ns': 0, 'title': 'Scream Queen', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Scream queen]] {{R from other capitalisation}}'}]}}

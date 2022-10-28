@@ -1,0 +1,1 @@
+{'63293157': {'pageid': 63293157, 'ns': 0, 'title': 'Jack Haly', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: H#Jack Haly]]'}]}}

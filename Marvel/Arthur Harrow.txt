@@ -1,0 +1,1 @@
+{'69809157': {'pageid': 69809157, 'ns': 0, 'title': 'Arthur Harrow', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Characters of the Marvel Cinematic Universe: A–L#Arthur Harrow]]\n\n{{Fictional character redirect|series_name=Marvel Cinematic Universe|series_name2=Moon Knight (TV series)}}'}]}}

@@ -1,0 +1,1 @@
+{'6603091': {'pageid': 6603091, 'ns': 0, 'title': 'Zuggernaut', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: Z#Zuggernaut]]\n\n{{Redirect category shell|1=\n{{R comics to list entry}}\n{{R from fictional character|DC Comics}}\n}}\n\n[[Category:DC Comics characters with superhuman strength]]'}]}}

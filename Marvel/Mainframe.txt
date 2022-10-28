@@ -1,0 +1,1 @@
+{'45484756': {'pageid': 45484756, 'ns': 0, 'title': 'Mainframe', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Mainframe computer]]'}]}}

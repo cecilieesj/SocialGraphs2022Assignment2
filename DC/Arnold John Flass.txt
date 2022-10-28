@@ -1,0 +1,1 @@
+{'8127474': {'pageid': 8127474, 'ns': 0, 'title': 'Arnold John Flass', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: F#Arnold John Flass]]\n\n{{Rcat shell|\n{{R to list entry}}\n}}'}]}}

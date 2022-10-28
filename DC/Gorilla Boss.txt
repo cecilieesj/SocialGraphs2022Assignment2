@@ -1,0 +1,1 @@
+{'62722997': {'pageid': 62722997, 'ns': 0, 'title': 'Gorilla Boss', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: G#Gorilla Boss]]\n\n[[Category:DC Comics characters with superhuman strength]]\n[[Category:Fictional executed characters]]\n[[Category:Fictional gangsters]]'}]}}

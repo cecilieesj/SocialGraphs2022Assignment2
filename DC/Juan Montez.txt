@@ -1,0 +1,1 @@
+{'66226249': {'pageid': 66226249, 'ns': 0, 'title': 'Juan Montez', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: M#Juan Montez]]\n{{Redirect category shell|\n{{R to list entry}}\n}}'}]}}

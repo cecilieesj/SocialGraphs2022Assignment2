@@ -1,0 +1,1 @@
+{'42670549': {'pageid': 42670549, 'ns': 0, 'title': 'Golden Eagle', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Golden eagle]]\n\n{{Redirect category shell|1=\n{{R from move}}\n{{R from other capitalisation}}\n}}'}]}}

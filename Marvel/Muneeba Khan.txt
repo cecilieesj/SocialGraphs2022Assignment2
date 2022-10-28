@@ -1,0 +1,1 @@
+{'70320112': {'pageid': 70320112, 'ns': 0, 'title': 'Muneeba Khan', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Characters of the Marvel Cinematic Universe: A–L#Khan family]]\n\n{{Fictional character redirect|series_name=Marvel Cinematic Universe|series_name2=Ms. Marvel (TV series)}}'}]}}

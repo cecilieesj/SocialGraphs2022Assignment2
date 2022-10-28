@@ -1,0 +1,1 @@
+{'34311129': {'pageid': 34311129, 'ns': 0, 'title': 'Amber Hunt', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': "'''Amber Hunt''' may refer to:\n\n* [[Amber Hunt (comics)]], a fictional character from Malibu Comics' ''Exiles'' comic book series\n* [[Amber Hunt (journalist)]], journalist and true crime author\n\n{{hndis|Hunt, Amber}}"}]}}

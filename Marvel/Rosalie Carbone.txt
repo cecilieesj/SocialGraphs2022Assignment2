@@ -1,0 +1,1 @@
+{'55618814': {'pageid': 55618814, 'ns': 0, 'title': 'Rosalie Carbone', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: C#Rosalie Carbone]]'}]}}

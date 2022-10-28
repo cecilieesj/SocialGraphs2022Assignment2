@@ -1,0 +1,1 @@
+{'61550643': {'pageid': 61550643, 'ns': 0, 'title': 'Robert Queen', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: Q#Robert Queen]]\n\n{{R from move}}'}]}}

@@ -1,0 +1,1 @@
+{'1590221': {'pageid': 1590221, 'ns': 0, 'title': 'Rancor', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Star Wars creatures#Rancor]]\n\n{{Redirect category shell|1=\n{{R from merge}}\n{{R from fictional element|Star Wars}}\n}}\n\n[[Category:Fictional monsters]]'}]}}

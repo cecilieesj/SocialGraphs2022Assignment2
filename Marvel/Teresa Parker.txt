@@ -1,0 +1,1 @@
+{'58916549': {'pageid': 58916549, 'ns': 0, 'title': 'Teresa Parker', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: P#Teresa Parker]]'}]}}

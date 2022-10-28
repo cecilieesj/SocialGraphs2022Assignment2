@@ -1,0 +1,1 @@
+{'54964728': {'pageid': 54964728, 'ns': 0, 'title': 'Mitchell Ellison', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: E#Mitchell Ellison]]'}]}}

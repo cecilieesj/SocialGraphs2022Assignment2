@@ -1,0 +1,1 @@
+{'55181366': {'pageid': 55181366, 'ns': 0, 'title': 'Truman Marsh', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: M#Truman Marsh]]'}]}}

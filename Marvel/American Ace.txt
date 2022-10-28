@@ -1,0 +1,1 @@
+{'6708666': {'pageid': 6708666, 'ns': 0, 'title': 'American Ace', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: A#American Ace]]  {{R from merge}} {{R to section}}\n\n[[Category:Timely Comics characters]]\n[[Category:United States-themed superheroes]]'}]}}

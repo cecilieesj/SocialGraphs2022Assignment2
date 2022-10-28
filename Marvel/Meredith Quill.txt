@@ -1,0 +1,1 @@
+{'52023301': {'pageid': 52023301, 'ns': 0, 'title': 'Meredith Quill', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: Q#Meredith Quill]]\n\n{{Redirect category shell|1=\n{{R to section}}\n{{R from fictional character|Marvel Comics}}\n}}\n\n[[Category:Guardians of the Galaxy characters]]'}]}}

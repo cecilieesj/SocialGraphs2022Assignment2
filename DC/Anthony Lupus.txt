@@ -1,0 +1,1 @@
+{'2784361': {'pageid': 2784361, 'ns': 0, 'title': 'Anthony Lupus', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: L#Anthony Lupus]]\n\n{{Rcat shell|\n{{R to related topic}}\n}}\n\n[[Category:DC Comics characters with superhuman strength]]'}]}}

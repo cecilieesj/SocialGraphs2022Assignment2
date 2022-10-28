@@ -1,0 +1,1 @@
+{'1346695': {'pageid': 1346695, 'ns': 0, 'title': 'Chewie', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Chewbacca]]\n\n{{Redirect category shell|1=\n{{R from short name}}\n}}'}]}}

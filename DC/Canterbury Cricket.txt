@@ -1,0 +1,1 @@
+{'32459908': {'pageid': 32459908, 'ns': 0, 'title': 'Canterbury Cricket', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#redirect [[List of DC Comics characters: C#Canterbury Cricket]]\n\n{{R from fictional character|DC Comics}}'}]}}

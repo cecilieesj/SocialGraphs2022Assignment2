@@ -1,0 +1,1 @@
+{'386372': {'pageid': 386372, 'ns': 0, 'title': 'Snakes', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[Snake]]\n\n{{Redirect category shell|1=\n{{R from plural}}\n}}'}]}}

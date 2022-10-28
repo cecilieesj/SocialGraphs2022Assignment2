@@ -1,0 +1,1 @@
+{'51401228': {'pageid': 51401228, 'ns': 0, 'title': 'Adeline Kane', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: K#Adeline Kane]]\n\n{{Redirect category shell|1=\n{{R to section}}\n{{R from fictional character|DC Comics}}\n}}\n{{DEFAULTSORT:Kane, Adeline}}'}]}}

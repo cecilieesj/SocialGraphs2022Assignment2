@@ -1,0 +1,1 @@
+{'850479': {'pageid': 850479, 'ns': 0, 'title': 'Death-Stalker', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: D]]'}]}}

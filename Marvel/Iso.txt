@@ -1,0 +1,1 @@
+{'13267285': {'pageid': 13267285, 'ns': 0, 'title': 'Iso', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[ISO (disambiguation)]]'}]}}

@@ -1,0 +1,1 @@
+{'29134168': {'pageid': 29134168, 'ns': 0, 'title': 'Christine Everhart', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of Marvel Comics characters: E#Christine Everhart]]'}]}}

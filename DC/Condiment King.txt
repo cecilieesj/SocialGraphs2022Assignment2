@@ -1,0 +1,1 @@
+{'44131017': {'pageid': 44131017, 'ns': 0, 'title': 'Condiment King', 'revisions': [{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '#REDIRECT [[List of DC Comics characters: C#Condiment King]]\n\n{{R from fictional character|DC Comics}}'}]}}
